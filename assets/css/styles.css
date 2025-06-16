@@ -20,6 +20,16 @@ header {
     /* Decorative border */
 }
 
+.custom-brown {
+    background-color: rgba(139, 69, 19, 0.9);
+    color: #fff;
+    border: none;
+}
+.custom-brown:hover, .custom-brown:focus {
+    background-color: rgba(139, 69, 19, 1);
+    color: #fff;
+}
+
 
 #map-title {
     color:#f8f8f2;
